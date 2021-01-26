@@ -1,6 +1,6 @@
 # Skill Link
 
-Skill Link is a full-stack web application showcase that leverages US Department of Labor data to help inviduals find a meaningful career.
+Skill Link is a full-stack web application showcase. Skill Link leverages US Department of Labor data to help inviduals find meaningful careers
 
 ## Overview
 
